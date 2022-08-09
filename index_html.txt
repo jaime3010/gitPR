@@ -5,4 +5,5 @@ Priemra linea de texto en el archivo html
 	</div>
 </head>
 <body>
+	Se agrega un nuevo cambio para comparar el local con el remoto
 </body>
